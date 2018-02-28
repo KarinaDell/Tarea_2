@@ -1,0 +1,10 @@
+C:\Users\MARIO\Desktop\Karina uwu\4to Semestre\Archivos de texto y binarios\Archivos de texto y binarios\bin\Debug\Archivos de texto y binarios.exe.config
+C:\Users\MARIO\Desktop\Karina uwu\4to Semestre\Archivos de texto y binarios\Archivos de texto y binarios\bin\Debug\Archivos de texto y binarios.exe
+C:\Users\MARIO\Desktop\Karina uwu\4to Semestre\Archivos de texto y binarios\Archivos de texto y binarios\bin\Debug\Archivos de texto y binarios.pdb
+C:\Users\MARIO\Desktop\Karina uwu\4to Semestre\Archivos de texto y binarios\Archivos de texto y binarios\obj\Debug\Archivos de texto y binarios.csprojResolveAssemblyReference.cache
+C:\Users\MARIO\Desktop\Karina uwu\4to Semestre\Archivos de texto y binarios\Archivos de texto y binarios\obj\Debug\Archivos_de_texto_y_binarios.Form1.resources
+C:\Users\MARIO\Desktop\Karina uwu\4to Semestre\Archivos de texto y binarios\Archivos de texto y binarios\obj\Debug\Archivos_de_texto_y_binarios.Properties.Resources.resources
+C:\Users\MARIO\Desktop\Karina uwu\4to Semestre\Archivos de texto y binarios\Archivos de texto y binarios\obj\Debug\Archivos de texto y binarios.csproj.GenerateResource.Cache
+C:\Users\MARIO\Desktop\Karina uwu\4to Semestre\Archivos de texto y binarios\Archivos de texto y binarios\obj\Debug\Archivos de texto y binarios.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\Desktop\Karina uwu\4to Semestre\Archivos de texto y binarios\Archivos de texto y binarios\obj\Debug\Archivos de texto y binarios.exe
+C:\Users\MARIO\Desktop\Karina uwu\4to Semestre\Archivos de texto y binarios\Archivos de texto y binarios\obj\Debug\Archivos de texto y binarios.pdb
