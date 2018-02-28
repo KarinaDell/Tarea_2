@@ -30,26 +30,22 @@ namespace Archivos_de_texto_y_binarios
             archivo = new FileStream(ofd2.FileName, FileMode.Open);
             br = new BinaryReader(archivo);
 
-            leerDatos();
+            Leer();
         }
 
-        private void leerDatos()
+        private void Leer()
         {
-            string info = "";
+            string desc = "";
 
-            archivo.Seek(2, SeekOrigin.Begin); 
-            info += "Tamaño real en bytes: " + br.ReadInt32() + Environment.NewLine;
-
-            archivo.Seek(18, SeekOrigin.Begin); 
-            info += "Ancho: " + br.ReadInt32() + Environment.NewLine;
-
+            archivo.Seek(2, SeekOrigin.Begin);
+            desc += "Tamaño real en bytes: " + br.ReadInt32() + Environment.NewLine;
+            archivo.Seek(18, SeekOrigin.Begin);
+            desc += "Ancho: " + br.ReadInt32() + Environment.NewLine;
             archivo.Seek(22, SeekOrigin.Begin);
-            info += "Alto: " + br.ReadInt32() + Environment.NewLine;
-
-            archivo.Seek(28, SeekOrigin.Begin); 
-            info += "Bits p/pixel: " + br.ReadInt32();
-
-            txtDescripcion.Text = info;
+            desc += "Alto: " + br.ReadInt32() + Environment.NewLine;
+            archivo.Seek(28, SeekOrigin.Begin);
+            desc += "Bits p/pixel: " + br.ReadInt32();
+            txtDescripcion.Text = desc;
 
             archivo.Close();
         }
